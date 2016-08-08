@@ -1,8 +1,9 @@
+#!/usr/bin/env python2
+# written by Moses Arocha
+
 from random import randint
 
-
 record = 0
-
 
 while (record == 0):
 
